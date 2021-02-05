@@ -1,6 +1,6 @@
 ---
 title: "Some cool animal facts"
-author: "Philip Leftwich"
+author: "Hayley Johnson"
 output: html_document
 ---
 
@@ -16,6 +16,17 @@ knitr::opts_chunk$set(echo = TRUE)
 
 
 ### Cool animal fun facts {.tabset .tabset-fade}
+
+#### BABY YODA
+
+![Baby yoda from Star Wars The Mandalorian series, Disney](img/Grogu.jpg)
+
+
+- Also known as "The Child"
+- Likes unfertilised frog eggs & control knobs
+- Strong with the force
+
+
 
 #### SHARKS!!!
 
